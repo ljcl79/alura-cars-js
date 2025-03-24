@@ -7,11 +7,19 @@ Alura Cars es una aplicación web desarrollada con **React** que permite visuali
 
 
 src/
+
 ├── components/
+
 │   ├── CarList.jsx
+
 ├── data/
+
 │   └── cars.json
+
 ├── styles/
+
 │   └── App.css
+
 ├── App.jsx
+
 └── main.jsx
